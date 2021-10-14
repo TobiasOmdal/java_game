@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tobiaomd.AppTest" time="0.004" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game\target\test-classes;C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game\target\classes;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl\3.2.3\lwjgl-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-assimp\3.2.3\lwjgl-assimp-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-bgfx\3.2.3\lwjgl-bgfx-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-glfw\3.2.3\lwjgl-glfw-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nanovg\3.2.3\lwjgl-nanovg-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nuklear\3.2.3\lwjgl-nuklear-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-openal\3.2.3\lwjgl-openal-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-opengl\3.2.3\lwjgl-opengl-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-par\3.2.3\lwjgl-par-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-stb\3.2.3\lwjgl-stb-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-vulkan\3.2.3\lwjgl-vulkan-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl\3.2.3\lwjgl-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-assimp\3.2.3\lwjgl-assimp-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-bgfx\3.2.3\lwjgl-bgfx-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-glfw\3.2.3\lwjgl-glfw-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nanovg\3.2.3\lwjgl-nanovg-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nuklear\3.2.3\lwjgl-nuklear-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-openal\3.2.3\lwjgl-openal-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-opengl\3.2.3\lwjgl-opengl-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-par\3.2.3\lwjgl-par-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-stb\3.2.3\lwjgl-stb-3.2.3-natives-windows.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Oslo"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\jdk-16.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\tobia\AppData\Local\Temp\surefire6682268752502333933\surefirebooter2492282318264075654.jar C:\Users\tobia\AppData\Local\Temp\surefire6682268752502333933 2021-10-14T19-39-53_320-jvmRun1 surefire8201588928300731902tmp surefire_014160695151054235481tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game\target\test-classes;C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game\target\classes;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl\3.2.3\lwjgl-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-assimp\3.2.3\lwjgl-assimp-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-bgfx\3.2.3\lwjgl-bgfx-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-glfw\3.2.3\lwjgl-glfw-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nanovg\3.2.3\lwjgl-nanovg-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nuklear\3.2.3\lwjgl-nuklear-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-openal\3.2.3\lwjgl-openal-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-opengl\3.2.3\lwjgl-opengl-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-par\3.2.3\lwjgl-par-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-stb\3.2.3\lwjgl-stb-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-vulkan\3.2.3\lwjgl-vulkan-3.2.3.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl\3.2.3\lwjgl-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-assimp\3.2.3\lwjgl-assimp-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-bgfx\3.2.3\lwjgl-bgfx-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-glfw\3.2.3\lwjgl-glfw-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nanovg\3.2.3\lwjgl-nanovg-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-nuklear\3.2.3\lwjgl-nuklear-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-openal\3.2.3\lwjgl-openal-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-opengl\3.2.3\lwjgl-opengl-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-par\3.2.3\lwjgl-par-3.2.3-natives-windows.jar;C:\Users\tobia\.m2\repository\org\lwjgl\lwjgl-stb\3.2.3\lwjgl-stb-3.2.3-natives-windows.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\tobia"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Program Files\OpenJDK\jdk-16.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\tobia\AppData\Local\Temp\surefire6682268752502333933\surefirebooter2492282318264075654.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="tobia"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\tobia\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\tobia\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="C:\Users\tobia\OneDrive - NTNU\dev\java\java_game\java_game"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\OpenJDK\jdk-16.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\tobia\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\tobia\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\Program Files\OpenJDK\openjdk-8u292-b10\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Python39\Scripts;C:\users\tobia\appdata\roaming\python\python39\site-packages;C:\Users\tobia\AppData\Roaming\Python\Python39\Scripts;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\tobia\OneDrive - NTNU\SDL\SDL2-2.0.14\lib\x64;C:\Program Files\Python39;C:\Users\tobia\.cargo\bin;C:\Users\tobia\AppData\Local\Microsoft\WindowsApps;C:\Users\tobia\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\tobia\AppData\Roaming\npm;C:\Users\tobia\OneDrive - NTNU\SDL\SDL2_image-2.0.5\lib\x64;C:\Program Files\CMake\bin;C:\Users\tobia\AppData\Roaming\Python\Python39\Scripts;C:\Program Files\apache-maven\apache-maven-3.8.3\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+</testsuite>
